@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/GianlucaIavicoli/pStalker">
+  <a href="https://github.com/kalix127/pStalker">
     <img src="images/logo.png" alt="Logo">
   </a>
 
@@ -12,12 +12,12 @@
   <p align="center">
 pStalker is a CLI time-tracking tool for Linux, with future support planned for other OS. It tracks time spent on desktop apps from installation, continuing on each boot. Users can view usage reports for various timeframes (today, last 7 days, last month), can exclude specific apps as needed and export the usage data to CSV and JSON.
     <br />
-    <a href="https://github.com/GianlucaIavicoli/pStalker"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/kalix127/pStalker"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/GianlucaIavicoli/pStalker/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/kalix127/pStalker/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/GianlucaIavicoli/pStalker/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/kalix127/pStalker/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -51,7 +51,7 @@ pStalker is a CLI time-tracking tool for Linux, with future support planned for 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-[![Product Name Screen Shot][product-screenshot]](https://github.com/GianlucaIavicoli/pStalker)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/kalix127/pStalker)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -184,7 +184,7 @@ pStalker CLI
 - [ ] Add support for Windows (Once the Repository reaches 50 stars)
 - [ ] Develop a GUI using Electron for viewing data on Linux and Windows. (Once the Repository reaches 100 stars)
 
-See the [open issues](https://github.com/GianlucaIavicoli/pStalker/issues) for a full list of proposed features and known issues.
+See the [open issues](https://github.com/kalix127/pStalker/issues) for a full list of proposed features and known issues.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
